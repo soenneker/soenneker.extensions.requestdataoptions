@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Extensions.RequestDataOptions.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Extensions.RequestDataOptions\Soenneker.Extensions.RequestDataOptions.csproj" />
     </ItemGroup>
 
     <ItemGroup>
