@@ -44,6 +44,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="Soenneker.Dtos.RequestDataOptions" Version="4.0.133" />
+      <PackageReference Include="Soenneker.Dtos.RequestDataOptions" Version="4.0.136" />
     </ItemGroup>
 </Project>
