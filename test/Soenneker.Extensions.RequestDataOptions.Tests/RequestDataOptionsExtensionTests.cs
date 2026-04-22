@@ -1,11 +1,10 @@
-﻿using Soenneker.Tests.Unit;
-using Xunit;
+using Soenneker.Tests.Unit;
 
 namespace Soenneker.Extensions.RequestDataOptions.Tests;
 
 public sealed class RequestDataOptionsExtensionTests : UnitTest
 {
-    [Fact]
+    [Test]
     public void Default()
     {
 
