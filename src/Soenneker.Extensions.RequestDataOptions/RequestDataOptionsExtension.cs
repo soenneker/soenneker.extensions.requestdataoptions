@@ -1,7 +1,7 @@
 ﻿namespace Soenneker.Extensions.RequestDataOptions;
 
 /// <summary>
-/// A collection of helpful RequestDataOptions extension methods
+/// An extension namespace reserved for RequestDataOptions APIs.
 /// </summary>
 public static class RequestDataOptionsExtension
 {
